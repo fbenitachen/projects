@@ -1,2 +1,2 @@
 # Python
-Projects of mine - Statistics and Linear Regression related areas
+Projects of mine - statistics and linear regression related areas
