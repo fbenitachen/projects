@@ -1,2 +1,2 @@
 # Python
-Projects of mine
+Projects of mine - Statistics related areas
